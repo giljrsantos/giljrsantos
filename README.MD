@@ -1,4 +1,4 @@
-## :⚡: Gilberto Junior
+## ⚡ Gilberto Junior
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/giljrsantos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/gilberto-junior-dos-santos/)
