@@ -19,6 +19,6 @@ Em 2017/2 eu consegui da inicio ao curso de ensino superior. Não foi fácil, ma
 
 Sou formado em Analise de Desenvolvimento de Sistema. Cursei o ensino superior na faculdade FAESA. Hoje eu estou todos os dias estudando novas tecnologias, novas linguagens. Meu objetivo é conseguir uma oportunidade em uma empresa que o foco é desenvolvimento.
 
-Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | Java
+Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | TypeScript | Java
 </p>
 ---
