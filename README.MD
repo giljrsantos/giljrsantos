@@ -14,8 +14,10 @@
 Meu nome é Gilberto Júnior Dos Santos, trabalho na área da tecnologia desde 2007.
 
 O meu primeiro site que eu fiz, e que foi hospedado, foi no ano de 2009. 
-  E depois disso, continuei estudando tentando aprender novas tecnologias. 
-  E sempre querendo fazer uma graduação nessa área de TI.
+
+E depois disso, continuei estudando tentando aprender novas tecnologias. 
+
+E sempre querendo fazer uma graduação nessa área de TI.
 
 Em 2017/2 eu consegui da inicio ao curso de ensino superior. Não foi fácil, mas graças a Deus eu consegui concluir.
 
