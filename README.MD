@@ -8,6 +8,9 @@
 
 ### Olá! 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" width="350px" align="right" alt="laptop">
+
+<p align="left">
 Meu nome é Gilberto Júnior Dos Santos, trabalho na área da tecnologia desde 2007.
 
 O meu primeiro site que eu fiz, e que foi hospedado, foi no ano de 2009. E depois disso, continuei estudando tentando aprender novas tecnologias. E sempre querendo fazer uma graduação nessa área de TI.
@@ -17,5 +20,5 @@ Em 2017/2 eu consegui da inicio ao curso de ensino superior. Não foi fácil, ma
 Sou formado em Analise de Desenvolvimento de Sistema. Cursei o ensino superior na faculdade FAESA. Hoje eu estou todos os dias estudando novas tecnologias, novas linguagens. Meu objetivo é conseguir uma oportunidade em uma empresa que o foco é desenvolvimento.
 
 Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | Java
-
+</p>
 ---
