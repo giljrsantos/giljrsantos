@@ -34,7 +34,7 @@ Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | Typ
 <br><br>
 <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=giljrsantos&show_icons=true&custom_title=Gilberto Jr%20Github%20Stats&theme=tokyonight&hide_border=true">
+
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=giljrsantos&theme=tokyonight&hide_border=true">
 </div>
 </details>
