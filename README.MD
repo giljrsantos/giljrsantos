@@ -31,15 +31,15 @@ Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | Typ
 <summary>&ensp; <i>Gráfico de Contribuição</i> &ensp;</summary>
 <br>
   
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=giljrsantos&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=giljrsantos&theme=tokyo-night&custom_title=Gilberto Jr - Gráfico de Contribuição&hide_border=true">
   
 <br><br>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&langs_count=8&custom_title=Linguagens Mais Usadas&theme=tokyonight&hide_border=true" >
+<<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&langs_count=8&custom_title=Linguagens Mais Usadas&theme=tokyonight&hide_border=true" >
   
 <div align="right">
   
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=giljrsantos&show_icons=true&custom_title=Gilberto Jr%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=giljrsantos&show_icons=true&custom_title=Gilberto Jr - Estatísticas do GitHub&theme=tokyonight&hide_border=true">
   
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=giljrsantos&theme=tokyonight&hide_border=true">
   
