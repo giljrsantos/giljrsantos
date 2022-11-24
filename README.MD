@@ -25,4 +25,9 @@ Sou formado em Analise de Desenvolvimento de Sistema. Cursei o ensino superior n
 
 Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | TypeScript | Java
 </p>
----
+
+## Status GitHub
+<div>
+<a href="https://github.com/desenvjonathan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
