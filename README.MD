@@ -26,8 +26,15 @@ Sou formado em Analise de Desenvolvimento de Sistema. Cursei o ensino superior n
 Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | TypeScript | Java
 </p>
 
-## Status GitHub
-<div>
-<a href="https://github.com/desenvjonathan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&layout=compact&langs_count=7&theme=dracula"/>
+<h2 align="center">
+<details open>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=giljrsantos&theme=tokyo-night&hide_border=true">
+<br><br>
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=giljrsantos&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=giljrsantos&theme=tokyonight&hide_border=true">
 </div>
+</details>
