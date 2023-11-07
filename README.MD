@@ -23,7 +23,10 @@ Em 2017/2 eu consegui da inicio ao curso de ensino superior. Não foi fácil, ma
 
 Sou formado em Analise de Desenvolvimento de Sistema. Cursei o ensino superior na faculdade FAESA. Hoje eu estou todos os dias estudando novas tecnologias, novas linguagens. Meu objetivo é conseguir uma oportunidade em uma empresa que o foco é desenvolvimento.
 
-Developer: Asp Classic | PHP | React Js | React Native | Node Js | Angular | JavaScript | TypeScript | Java
+Conhecimento em versionamento de código com o Bitbucket| GitLab.
+Bamboo ferramenta contínua de integração e implantação que associa compilações, testes e versões automatizados em um único fluxo de trabalho; e SonarQube, plataforma para inspeção contínua de qualidade do código para realizar revisões automáticas
+
+Developer: Asp Classic | JavaScript | typeScript | NodeJs | Angular2+ | React Native | React Js | HTML5 | CSS3 | GitHub | GitLab | BitBucket | Bamboo | SonarQube
 </p>
 
 <h2 align="center">
