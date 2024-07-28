@@ -31,10 +31,8 @@ Developer: Asp Classic | JavaScript | typeScript | NodeJs | Angular2+ | React Na
 
 <h2 align="center">
 <details open>
-<summary>&ensp; <i>Gráfico de Contribuição</i> &ensp;</summary>
+
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=giljrsantos&theme=tokyo-night&hide_border=true">
-<br><br>
 <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giljrsantos&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=giljrsantos&show_icons=true&theme=tokyonight&hide_border=true">
