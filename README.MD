@@ -25,6 +25,7 @@ Sou formado em Analise de Desenvolvimento de Sistema. Cursei o ensino superior n
 
 Conhecimento em versionamento de código com o Bitbucket| GitLab.
 Bamboo ferramenta contínua de integração e implantação que associa compilações, testes e versões automatizados em um único fluxo de trabalho; e SonarQube, plataforma para inspeção contínua de qualidade do código para realizar revisões automáticas
+
 Desenvolvedor Full Stack: Asp Classic | Angular 2+, TypeScript, NodeJs | Java 21, Spring Boot | Arquit. Hexagonal | Oracle & SQL Server | Sistemas Bancários | MFE | CI/CD | Azure DevOps | GitHub | SonarQube | Scrum | Kanban | Jira
 </p>
 
